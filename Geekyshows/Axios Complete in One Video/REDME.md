@@ -3,3 +3,5 @@
 [AXIOS Official Doc Link](https://axios-http.com/docs/intro)
 
 [axios npm package](https://www.npmjs.com/package/axios)
+
+[JSON Placeholder Dummy APIs](https://jsonplaceholder.typicode.com/)
