@@ -5,3 +5,5 @@
 [axios npm package](https://www.npmjs.com/package/axios)
 
 [JSON Placeholder Dummy APIs](https://jsonplaceholder.typicode.com/)
+
+[reqres Dummy APIs](https://reqres.in/)
