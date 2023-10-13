@@ -42,7 +42,7 @@ document.getElementById("btn").addEventListener('click', makeRequest);
 //         });
 // }
 
-// Ex-3 Async Await
+// Ex-3 Async and Await
 // async function makeRequest() {
 //     try {
 //         console.log("Button Clicked");
@@ -64,7 +64,7 @@ document.getElementById("btn").addEventListener('click', makeRequest);
 //     };
 // }
 
-// Ex-4 Async Await
+// Ex-4 Async and Await
 async function makeRequest() {
     try {
         console.log("Button Clicked");
