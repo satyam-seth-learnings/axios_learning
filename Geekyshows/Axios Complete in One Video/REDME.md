@@ -7,3 +7,5 @@
 [JSON Placeholder Dummy APIs](https://jsonplaceholder.typicode.com/)
 
 [reqres Dummy APIs](https://reqres.in/)
+
+[DOG API](https://dog.ceo/dog-api/)
